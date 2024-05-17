@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+yt-dlp
+python-dotenv
+requests
+asgiref
+deezer-python
+spotipy
